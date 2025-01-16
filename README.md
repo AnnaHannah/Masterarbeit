@@ -92,8 +92,6 @@ analysis. Additionally, the scaling analysis from West further informed the sele
 of these scaling variables.
 
 This study examines the selected variables presented in Table 3.3.
-Table 3.3: Selected variables in the dataset for this master thesis
-Selected variables: Variable chosen based on:
 
 ![image](https://github.com/user-attachments/assets/245e7d92-5006-4ab1-95eb-4731ce117547)
 
